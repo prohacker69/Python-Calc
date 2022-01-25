@@ -12,6 +12,19 @@ Thank you!!
 
 *notes*
 
--
+-simply press the start button to start
+-  / = division
+-  * = multiplication
+-  - = subtraction
+-  + = addition
+-  . = decimals
+-  π = pi
+- 0-9 numbers r available
+- tab can be dragged to desired size 
+
+
+
+
+
 
 

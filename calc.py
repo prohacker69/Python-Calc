@@ -14,7 +14,7 @@ cc.title("Simple Calculator")
 
 problem = ""
 
-#Create Calulator Functions
+#Creation of Calulator Functions
 def add(value):
     global problem
     problem += value
