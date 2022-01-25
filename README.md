@@ -2,7 +2,6 @@ It takes a lot of effort to create something as magnifgicient as this; I mean th
 
 I decided to create an ordinary Calculator with problems.
 
-I think I have an ego problem...
 Anyways!
 
 Welcome to my Python Calculator. (Probably has issues here n there)
@@ -10,3 +9,9 @@ Welcome to my Python Calculator. (Probably has issues here n there)
 Regardless of if your the teacher marking this or just someone looking to copy n paste a coding masterpeice, I hope you enjoy every bit of this assignment as much as I did.
 
 Thank you!!
+
+*notes*
+
+-
+
+
