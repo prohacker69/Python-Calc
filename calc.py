@@ -1,21 +1,29 @@
-import tkiner as tk
 
-class Calculator:
-    def__init__(self):
-        self.window = tk.Tk()
-        self.window.geometry("375x667")
-        self.window.resizable(0,0)
-        self.window.title("Calculator")
+def main():
+    print("Hello fellow assignment marker, and or anyone who chooses to plagiarise this in the future!")
+    print("This is merely a simple calculator which can add, subtract, divide, and multiply.")
+    a = float(input("Enter any number:"))
+    b = float(input("Enter any number:"))
+    #The two numbers being calculated
 
-        self.display = self.create_display_frame()
-        self.buttons
+    add = a+b
+    print("The sum is " + add)
+    #adds a and b values
 
-def run(self):
-    self.window.mainloop()
+    sub = a-b
+    print("The difference is" + sub)
+    #takes the value of a and removes the b equivalent
 
-if__name__ == "__main__":
-    calc = Calculator()
-    calc.run()
-    
+    div = a/b
+    print("The fraction is" + div)
+    #takes a and divides it by the value of b
+
+    mul = a*b
+    print("The product is" + mul)
+    #a multiplied by the value of b
+
+main()
+
+
 
 
