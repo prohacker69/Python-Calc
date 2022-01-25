@@ -1,6 +1,8 @@
-
+#Ibrahim Mahmud
+#Computer science 30
+#01/24/22
 def main():
-    print("Hello fellow assignment marker, and or anyone who chooses to plagiarise this in the future!")
+
     print("This is merely a simple calculator which can add, subtract, divide, and multiply.")
     a = float(input("Enter any number:"))
     b = float(input("Enter any number:"))
